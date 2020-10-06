@@ -5,8 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         AddingMachine myCalculator = new AddingMachine();
-        //System.out.println("fak");
-        // testing, nothing wrong here ^ :)
        /* System.out.println(myCalculator);
         myCalculator.add (4);
         System.out.println(myCalculator);
