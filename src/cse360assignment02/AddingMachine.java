@@ -5,6 +5,7 @@ package cse360assignment02;
  */
 public class AddingMachine {
     private int total;
+    //a
 
     /**
      * constructor initializes adding machine
